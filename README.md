@@ -42,5 +42,3 @@ This function prints the total number of NFTs in the collection.
 4. Run the JavaScript program by executing `node index.js`.
 5. The program will mint several NFTs and display their metadata.
 
-## Example Output
-
